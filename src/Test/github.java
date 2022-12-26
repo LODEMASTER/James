@@ -8,6 +8,7 @@ public class github {
 		System.out.println("fuck king korea");
 		System.out.println("fuck king japan");
 		System.out.println("fuck king japan45645656");
+		System.out.println("fuck king japan1321213231321");
 	}
 
 }
