@@ -12,6 +12,7 @@ public class github {
 		System.out.println("깃허브에 반영할 내용");
 		System.out.println("깃허브에 반영할 내용00");
 		System.out.println("깃허브에 반영할 내용122313");
+		System.out.println("password");
 		
 	}
 
