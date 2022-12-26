@@ -6,7 +6,9 @@ public class github {
 		// TODO Auto-generated method stub
 		System.out.println("fuck king USA");
 		System.out.println("fuck king korea");
-
+		System.out.println("fuck king japan");
+		System.out.println("fuck king japan45645656");
 	}
 
 }
+
