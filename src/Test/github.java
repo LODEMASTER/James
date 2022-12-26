@@ -10,6 +10,7 @@ public class github {
 		System.out.println("fuck king japan45645656");
 		System.out.println("fuck king japan1321213231321");
 		System.out.println("깃허브에 반영할 내용");
+		System.out.println("깃허브에 반영할 내용00");
 		
 	}
 
